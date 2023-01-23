@@ -1,27 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3e6c8012-7910-4b9c-989d-1bbf70460a5c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/arrays.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/closures.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/constants.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/for.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/functions.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/goLangPractice.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hello-world.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/if-else.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maps.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multiple-return-value-function.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/range.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/slices.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/switch.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/values.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/variables.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/variadic-functions.go" afterDir="false" />
+    <list default="true" id="3e6c8012-7910-4b9c-989d-1bbf70460a5c" name="Changes" comment="go practice day1">
+      <change afterPath="$PROJECT_DIR$/Strings-and-runes.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pointers.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recursion.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +39,14 @@
       <option name="presentableId" value="Default" />
       <updated>1674363083345</updated>
     </task>
+    <task id="LOCAL-00001" summary="go practice day1">
+      <created>1674397969782</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1674397969782</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -67,5 +59,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="go practice day1" />
+    <option name="LAST_COMMIT_MESSAGE" value="go practice day1" />
   </component>
 </project>
