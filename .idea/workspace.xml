@@ -4,7 +4,6 @@
     <list default="true" id="3e6c8012-7910-4b9c-989d-1bbf70460a5c" name="Changes" comment="go practice day2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Strings-and-runes.go" beforeDir="false" afterPath="$PROJECT_DIR$/Strings-and-runes.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pointers.go" beforeDir="false" afterPath="$PROJECT_DIR$/pointers.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,7 +25,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/Users/gakushag/Documents/goPractice"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
